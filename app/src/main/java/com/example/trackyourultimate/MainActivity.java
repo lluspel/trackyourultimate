@@ -17,4 +17,8 @@ public class MainActivity extends AppCompatActivity {
     public void players(View view) {
         startActivity(new Intent(MainActivity.this, PlayersActivity.class));
     }
+
+    public void tourneys(View view) {
+        startActivity(new Intent(MainActivity.this, TourneysActivity.class));
+    }
 }
