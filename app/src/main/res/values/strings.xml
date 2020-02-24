@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">trackyourultimate</string>
+    <string name="players">Jugadores</string>
     <string name="add_player">Añadir jugador</string>
+    <string name="tourneys">Torneos</string>
+    <string name="add_tourney">Añadir torneo</string>
 </resources>
